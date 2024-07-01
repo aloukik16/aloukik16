@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=aloukik16&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](![image](https://github.com/aloukik16/aloukik16/assets/150384385/4d7d02e8-182c-4d40-92b4-7b780e92b928)
+)
 
 ### 😂 Random Dev Meme
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fishakmohmed%2F11-educational-tech-memes-for-all-programmers-with-explanation-5gj5&psig=AOvVaw3_13kMZ0D3RQJ-lnwBFMui&ust=1719900766038000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj6_eWXhYcDFQAAAAAdAAAAABBQ" style="height: 400px;"/>
