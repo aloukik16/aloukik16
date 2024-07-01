@@ -17,10 +17,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-)
+
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fishakmohmed%2F11-educational-tech-memes-for-all-programmers-with-explanation-5gj5&psig=AOvVaw3_13kMZ0D3RQJ-lnwBFMui&ust=1719900766038000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj6_eWXhYcDFQAAAAAdAAAAABBQ" style="height: 400px;"/>
+<img src="![image](https://github.com/aloukik16/aloukik16/assets/150384385/0d5a6ba7-c9fa-4d8e-89e5-790f08392af3)
+" style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aloukik16&icon=2&color=6)](https://visitcount.itsvg.in)
