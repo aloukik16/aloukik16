@@ -20,8 +20,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="![image](https://github.com/aloukik16/aloukik16/assets/150384385/0d5a6ba7-c9fa-4d8e-89e5-790f08392af3)
-" style="height: 400px;"/>
+<img src="![55+Hilarious-developer-memes-that-will-leave-you-in-splits-10](https://github.com/aloukik16/aloukik16/assets/150384385/abe52a43-503f-49f9-83bb-f18fe24d5383)" style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aloukik16&icon=2&color=6)](https://visitcount.itsvg.in)
