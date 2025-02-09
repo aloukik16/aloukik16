@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about Java, Python<br>⚡ Fun fact My LinkedIn has 201 followers
+🔭 I’m currently working on Data<br>🌱 I’m currently learning DSA<br>💬 Ask me about Python<br>⚡ Fun fact My LinkedIn has 450+ followers
 
 
 ## 🌐 Socials:
