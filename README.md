@@ -1,240 +1,141 @@
-#  `ALOUKIK AGRAWAL`
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  [ SYSTEM ONLINE ]                                                  │
-│                                                                     │
-│  USER        : Aloukik Agrawal                                     │
-│  ROLE        : Cybersecurity / Software Engineer                   │
-│  FOCUS       : Threat Detection • Network Security • SIEM • SOC     │
-│  ENVIRONMENT : Linux • Windows • Cloud • Network                   │
-│  STATUS      : ████████████████████████████ ONLINE                 │
-└─────────────────────────────────────────────────────────────────────┘
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=780&lines=root%40aloukik%3A~%23+whoami;Cybersecurity+%2B+Data+Analytics+Engineer;Building+SCADA+Defensive+Monitoring+Systems;sudo+access%3A+granted+%E2%9C%93" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=200&section=header&text=ALOUKIK%20AGRAWAL&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Defender%20of%20Networks%20%7C%20Analyst%20of%20Data&descAlignY=58&descAlign=50" />
+</p>
+
+<div align="center">
+
 ```
 
-> **"Build systems that detect the attack before the attacker becomes the incident."**
+┌─[ SYSTEM STATUS ]───────────────────────────────────────────┐
+│  ACCESS LEVEL   : ROOT                                       │
+│  LOCATION       : /home/aloukik/india                        │
+│  UPTIME         : building_since(2021) → present              │
+│  THREAT LEVEL    : monitored & neutralized                    │
+│  ENCRYPTION     : AES-256 (mind included)                    │
+└────────────────────────────────────────────────────────────┘
 
----
-
-## `whoami`
-
-🔭 **Currently building:** `SCADA Defensive Monitoring System`
-🛡️ **Cybersecurity focus:** `SIEM Engineering • Threat Detection • Network Security`
-💻 **Engineering focus:** `Python • C++ • Networking • Data Pipelines`
-📊 **Analytics:** `Power BI • SQL • Security Telemetry`
-🧪 **Security labs:** `Web Security • Network Analysis • Red Teaming`
-🤝 **Open to:** Cybersecurity, SOC, Detection Engineering & Data Analytics projects
-
-```python
-profile = {
-    "name": "Aloukik Agrawal",
-    "focus": [
-        "Cybersecurity",
-        "Threat Detection",
-        "SIEM Engineering",
-        "Network Security",
-        "Security Analytics"
-    ],
-    "languages": ["Python", "C++", "C", "Java"],
-    "mindset": "Understand → Build → Attack → Detect → Improve"
-}
 ```
 
----
-
-## `./projects --featured`
-
-### 🛰️ SCADA Defensive Monitoring System
-
-**Focus:** `OT Security • Threat Detection • Monitoring • SIEM`
-
-> Defensive monitoring architecture designed around SCADA/OT environments to identify suspicious activity, analyze telemetry and improve visibility across industrial systems.
-
-`SCADA` `OT Security` `Monitoring` `Threat Detection` `SIEM`
+</div>
 
 ---
 
-### 🔬 Deep Packet Inspection Engine
+## `[0x01]` >_ About This Node
 
-**Focus:** `Network Security • C++ • Multithreading`
-
-> Built a multithreaded packet inspection engine capable of parsing network traffic and analyzing protocols from PCAP data for security monitoring and traffic inspection.
-
-`C++` `Multithreading` `PCAP` `Wireshark` `TCP/IP` `TLS`
-
----
-
-### 🎯 Security & Red Team Labs
-
-**Focus:** `Web Security • Network Security • Enumeration`
-
-Hands-on security testing across intentionally vulnerable lab environments involving:
-
-```text
-Reconnaissance
-      ↓
-Enumeration
-      ↓
-Vulnerability Analysis
-      ↓
-Exploitation
-      ↓
-Privilege / Access Analysis
-      ↓
-Documentation
+```yaml
+current_project:    SCADA Defensive Monitoring System
+looking_to_collab:  Cybersecurity | Data Analytics projects
+currently_learning: SIEM Engineering & Threat Detection
+ask_me_about:       Python, Network Security, Data Pipelines
+fun_fact:           "Built a packet inspection engine in C++
+                      AND dashboards in Power BI —
+                      same brain, different attack surface."
 ```
 
-`Kali Linux` `Linux` `Wireshark` `Web Security` `Networking`
+<div align="center">
+<img src="https://media.giphy.com/media/8Z5aQBK9fzkiI/giphy.gif" width="450">
+</div>
 
 ---
 
-### 📊 Security Analytics & Data Pipelines
+## `[0x02]` >_ Network Uplinks
 
-**Focus:** `Python • SQL • Power BI`
+<div align="center">
 
-> Turning raw datasets and security telemetry into structured analysis, dashboards and actionable insights.
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FF9C&labelColor=0d1117)](https://instagram.com/aloukikagrawal16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0d1117)](https://linkedin.com/in/aloukik-agrawal-858a84295)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00FF9C&labelColor=0d1117)](https://x.com/AloukikAgrawal)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0d1117)](mailto:aloukikagrawal1610@gmail.com)
 
-`Python` `Pandas` `NumPy` `SQL` `Power BI` `Matplotlib` `Plotly`
-
----
-
-## `./arsenal`
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-### 🛡️ Cybersecurity & Networking
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge\&logo=elastic\&logoColor=white)
-
-### 📊 Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-
-### 🤖 Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=Keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-
-### ⚙️ Engineering & Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+</div>
 
 ---
 
-## `./security_mindset`
+## `[0x03]` >_ Payload / Tech Stack
 
-```text
-             ┌──────────────┐
-             │    SYSTEM    │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │   TELEMETRY  │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │    DETECT    │
-             └──────┬───────┘
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-    ┌───────────┐       ┌───────────┐
-    │ INVESTIGATE│       │   ALERT   │
-    └─────┬─────┘       └─────┬─────┘
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-             ┌──────────────┐
-             │   RESPOND    │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────────────┘
-```
+<div align="center">
 
-I enjoy working at the intersection of **software engineering and cybersecurity** — building systems, understanding how they communicate, finding weaknesses, and turning telemetry into useful security signals.
+**◤ Languages ◢**
 
----
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C" />
 
-## `./currently_learning`
+**◤ Data & Analytics ◢**
 
-```text
-[+] SIEM Engineering
-[+] Threat Detection
-[+] Security Monitoring
-[+] Network Security
-[+] SOC Workflows
-[+] Defensive Security
-[+] Cloud Security
-```
+<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=powerbi&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=00FF9C" />
+
+**◤ Machine Learning ◢**
+
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=00FF9C" />
+
+**◤ Cybersecurity & Networking ◢**
+
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=00FF9C" />
+
+**◤ Tools ◢**
+
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF9C" />
+
+</div>
 
 ---
 
-## `./connect`
+## `[0x04]` >_ Live Telemetry
 
-📫 **Email:** `aloukikagrawal1610@gmail.com`
+<div align="center">
 
-💼 **LinkedIn:** [linkedin.com/in/aloukik-agrawal-858a84295](https://linkedin.com/in/aloukik-agrawal-858a84295)
+<img src="https://github-readme-stats.vercel.app/api?username=aloukikagrawal16&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aloukikagrawal16&theme=highcontrast&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
 
-🐦 **X:** [x.com/AloukikAgrawal](https://x.com/AloukikAgrawal)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloukikagrawal16&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="48%" />
 
-📸 **Instagram:** [instagram.com/aloukikagrawal16](https://instagram.com/aloukikagrawal16)
+</div>
 
----
-
-## `./github_stats`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AloukikAgrawal\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AloukikAgrawal\&theme=tokyonight\&hide_border=true)
+> ⚠️ *Replace `aloukikagrawal16` above with your actual GitHub username if it differs — stats cards key off that.*
 
 ---
 
-## `./activity`
+## `[0x05]` >_ Terminal Log
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal\&theme=tokyo-night\&hide_border=true)
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ---
 
-## `./quote`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:203A43,100:0F2027&height=120&section=footer" />
+</p>
 
-> **"Security is not about knowing every attack.
-> It's about building systems that can recognize when something doesn't belong."**
-
-```text
-──────────────────────────────────────────────────────────────────────
-
-              [ CONNECTION ESTABLISHED ]
-
-        Cybersecurity • Engineering • Analytics
-
-              STATUS: READY TO BUILD ⚡
-
-──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<sub>🔒 connection encrypted • thanks for stopping by • don't forget to ⭐ a repo on your way out</sub>
+</div>
