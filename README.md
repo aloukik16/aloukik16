@@ -287,21 +287,6 @@ My experience spans **network management, data operations, analytics, dashboard 
      Google • Coursera
 ```
 
-## `github`
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AloukikAgrawal&theme=tokyonight" width="95%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AloukikAgrawal&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal&theme=tokyo-night&hide_border=true" width="95%">
-</p>
-
 
 ## `connect`
 
