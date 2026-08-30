@@ -1,223 +1,329 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=780&lines=root%40aloukik%3A~%23+whoami;B.Tech+CSE+%E2%80%94+Cybersecurity+%26+Cyber+Defense;Building+SCADA+Defensive+Monitoring+Systems;SIEM+%7C+Threat+Detection+%7C+Data+Pipelines;sudo+access%3A+granted+%E2%9C%93" alt="Typing SVG" />
-
-</div>
+<h1 align="center">ALOUKIK AGRAWAL</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=200&section=header&text=ALOUKIK%20AGRAWAL&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Defender%20of%20Networks%20%7C%20Analyst%20of%20Data&descAlignY=58&descAlign=50" />
+  <strong>CYBERSECURITY ENGINEER • SECURITY ANALYST • SOFTWARE ENGINEER</strong>
 </p>
-
-<div align="center">
-
-```
-
-┌─[ SYSTEM STATUS ]───────────────────────────────────────────┐
-│  ACCESS LEVEL   : ROOT                                       │
-│  DEGREE         : B.Tech CSE (Cybersecurity & Cyber Defense) │
-│  INSTITUTION    : Sri Sri University, Cuttack, Odisha         │
-│  CGPA           : 8.59 / 10                                  │
-│  UPTIME         : building_since(2023) → present              │
-│  THREAT LEVEL   : monitored & neutralized                     │
-└────────────────────────────────────────────────────────────┘
-
-```
-
-</div>
-
----
-
-## `[0x01]` >_ About This Node
-
-```yaml
-current_project:    SCADA Defensive Monitoring System
-looking_to_collab:  Cybersecurity | Data Analytics projects
-currently_learning: SIEM Engineering & Threat Detection
-ask_me_about:       Python, Network Security, Data Pipelines
-fun_fact:           "Built a packet inspection engine in C++
-                      AND dashboards in Power BI —
-                      same brain, different attack surface."
-```
-
-<div align="center">
-<img src="https://media.giphy.com/media/8Z5aQBK9fzkiI/giphy.gif" width="450">
-</div>
-
----
-
-## `[0x02]` >_ Network Uplinks
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FF9C&labelColor=0d1117)](https://instagram.com/aloukikagrawal16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0d1117)](https://linkedin.com/in/aloukik-agrawal-858a84295)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00FF9C&labelColor=0d1117)](https://x.com/AloukikAgrawal)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0d1117)](mailto:aloukikagrawal1610@gmail.com)
-
-</div>
-
----
-
-## `[0x03]` >_ Payload / Tech Stack
-
-<div align="center">
-
-**◤ Languages ◢**
-
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C" />
-
-**◤ Data & Analytics ◢**
-
-<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=powerbi&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=00FF9C" />
-
-**◤ Machine Learning ◢**
-
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=00FF9C" />
-
-**◤ Cybersecurity & Networking ◢**
-
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Active%20Directory-000000?style=for-the-badge&logo=microsoft&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=00FF9C" />
-
-**◤ Tools ◢**
-
-<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF9C" />
-
-</div>
-
----
-
-## `[0x04]` >_ Access Log — Experience
-
-```
-[2026-06] Shri Shri Minerals — Data Operations & Network Management Intern
-          > managed & organized operational data records for daily ops
-          > assisted network monitoring, troubleshooting & IT management
-
-[2025-03] Freelance — Data Analyst
-          > delivered 2 KPI dashboards in Excel, automating financial tracking
-          > built financial summary dashboards, simplifying performance tracking
-
-[2024-06] IBM SkillBuild (CSRBOX) — Data Analyst Intern
-          > processed 100K+ data points → reduced errors by 95%
-          > cut preprocessing time by 40%, improved workflow by 30%
-          > shipped 10+ interactive dashboards (Pandas/NumPy/Matplotlib) → -35% reporting time
-
-[2024-05] INNOVATE — Software Engineer Intern
-          > deployed SHA-256 hashing + reCAPTCHA auth → -40% brute-force attempts
-          > built real-time login monitoring for 10K+ users → +30% anomaly detection accuracy
-```
-
----
-
-## `[0x05]` >_ Deployed Payloads — Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ SCADA Defensive Monitoring
-*Major Project — OpenPLC, Node-RED, Suricata, Zeek, Wazuh*
-
-Architected a simulated Modbus SCADA environment with OpenPLC and Node-RED to replicate an OT network, then integrated Suricata, Zeek, and Wazuh into a centralized SIEM pipeline with dashboards for threat visibility.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗝️ Active Directory Red Team Lab
-*Active Directory, Splunk, Kali Linux, MITRE ATT&CK*
-
-Configured an Active Directory lab and simulated red-team attacks with Kali Linux while analyzing authentication telemetry. Implemented Splunk SIEM, Sysmon, and Universal Forwarder for centralized monitoring mapped to ATT&CK.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Cryptocurrency Data Analysis
-*Python, CoinMarketCap API, Pandas*
-
-Engineered a Python pipeline fetching real-time cryptocurrency data via the CoinMarketCap API, then transformed and visualized it to reveal pricing trends and financial indicators.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Packet Inspection Engine
-*C++*
-
-Built a custom packet inspection engine in C++ — the low-level counterpart to the Power BI dashboards on the data side of the house.
-
-</td>
-</tr>
-</table>
-
----
-
-## `[0x06]` >_ Credentials / Certifications
-
-- 🎓 Machine Learning Specialization — Stanford University (Coursera)
-- 🐍 100 Days of Python Bootcamp — Dr. Angela Yu (Udemy)
-- 🐧 Tools of the Trade: Linux and SQL — Google (Coursera)
-
----
-
-## `[0x07]` >_ Live Telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aloukikagrawal16&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aloukikagrawal16&theme=highcontrast&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloukikagrawal16&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="48%" />
-
-</div>
-
-> ⚠️ *Confirm `aloukikagrawal16` matches your actual GitHub username — the stats cards key off that.*
-
----
-
-## `[0x08]` >_ Terminal Log
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:203A43,100:0F2027&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-00ff9d?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/SIEM-00e5ff?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-bc8cff?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/THREAT%20DETECTION-ff6b9d?style=for-the-badge&labelColor=0d1117">
 </p>
 
-<div align="center">
-<sub>🔒 connection encrypted • thanks for stopping by • don't forget to ⭐ a repo on your way out</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00e5ff,100:7c3aed&height=180&section=header&text=SECURITY%20%7C%20DETECTION%20%7C%20ENGINEERING&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+</p>
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  USER        : ALOUKIK AGRAWAL                                   │
+│  ROLE        : CYBERSECURITY / SOFTWARE ENGINEER                 │
+│  EDUCATION   : B.Tech CSE — Cybersecurity & Cyber Defense         │
+│  CGPA        : 8.59 / 10                                         │
+│                                                                    │
+│  PRIMARY     : SIEM • THREAT DETECTION • NETWORK SECURITY         │
+│  SECONDARY   : DATA ANALYTICS • PYTHON • SECURITY AUTOMATION     │
+│                                                                    │
+│  CURRENT     : SCADA DEFENSIVE MONITORING                        │
+│  STATUS      : ● ONLINE                                           │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+## `whoami`
+
+I am a **Computer Science student specializing in Cybersecurity & Cyber Defense**, with hands-on experience across **security monitoring, SIEM engineering, network security, penetration testing, data analytics, and software engineering**.
+
+My current focus is building practical defensive security systems, understanding attack behavior, analyzing telemetry, and turning security data into actionable detections.
+
+```text
+                    SECURITY PIPELINE
+
+       NETWORK / ENDPOINT
+               │
+               ▼
+          ┌─────────┐
+          │ TELEMETRY│
+          └────┬────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   SIEM /     │
+        │   ANALYTICS  │
+        └──────┬───────┘
+               │
+        ┌──────┴──────┐
+        ▼             ▼
+    DETECTION     INVESTIGATION
+        │             │
+        └──────┬──────┘
+               ▼
+           RESPONSE
+```
+
+## `featured_projects`
+
+### `01` SCADA Defensive Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/OpenPLC-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square">
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square">
+<img src="https://img.shields.io/badge/Zeek-00AEEF?style=flat-square">
+<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square">
+</p>
+
+Designed a simulated **Modbus SCADA environment** using OpenPLC and Node-RED to replicate an OT network.
+
+Integrated **Suricata, Zeek, and Wazuh** into a centralized security monitoring pipeline with dashboards for improved threat visibility.
+
+```text
+OpenPLC
+   │
+   ▼
+Modbus / OT Network
+   │
+   ├──────────────► Zeek
+   │
+   └──────────────► Suricata
+                         │
+                         ▼
+                       Wazuh
+                         │
+                         ▼
+                   SIEM / DASHBOARD
+```
+
+### `02` Active Directory Red Team Lab
+
+<p>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=flat-square">
+</p>
+
+Configured an **Active Directory security lab** to simulate red team activity using Kali Linux and analyze authentication telemetry.
+
+Implemented **Splunk SIEM, Sysmon, and Universal Forwarder** for centralized monitoring and mapped observed activity against the **MITRE ATT&CK** framework.
+
+```text
+RED TEAM                         BLUE TEAM
+
+Kali Linux                       Sysmon
+     │                              │
+     ▼                              ▼
+Attack Simulation ──────────► Authentication Logs
+                                    │
+                                    ▼
+                                  Splunk
+                                    │
+                                    ▼
+                            MITRE ATT&CK Mapping
+```
+
+### `03` Cryptocurrency Data Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/API-00e5ff?style=flat-square">
+</p>
+
+Built a Python data pipeline using the **CoinMarketCap API** to retrieve real-time cryptocurrency data, transform datasets, and visualize pricing trends and financial indicators.
+
+```text
+API
+ │
+ ▼
+RAW DATA
+ │
+ ▼
+PANDAS
+ │
+ ▼
+TRANSFORMATION
+ │
+ ▼
+ANALYSIS
+ │
+ ▼
+VISUALIZATION
+```
+
+## `experience`
+
+```text
+2026  ──  DATA OPERATIONS & NETWORK MANAGEMENT
+          Shri Shri Minerals
+
+          Data Operations
+          Network Monitoring
+          Troubleshooting
+          IT Management
+
+2025  ──  DATA ANALYST
+          Freelance
+
+          KPI Dashboards
+          Financial Analytics
+          Excel Automation
+
+2024  ──  DATA ANALYST INTERN
+          IBM SkillBuild / CSRBOX
+
+          100K+ Data Points
+          10+ Interactive Dashboards
+          Python / Pandas / NumPy
+
+2024  ──  SOFTWARE ENGINEER INTERN
+          INNOVATE
+
+          SHA-256 Authentication
+          reCAPTCHA
+          Login Activity Monitoring
+          Anomaly Detection
+```
+
+My experience spans **network management, data operations, analytics, dashboard development, authentication, and security monitoring**, giving me a combination of infrastructure and security perspectives.
+
+## `security_stack`
+
+### SIEM & Detection
+
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=for-the-badge">
+</p>
+
+### Network Security
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
+
+### Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
+
+## `core_capabilities`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  NETWORKING                                                 │
+│  TCP/IP • Network Analysis • Traffic Inspection            │
+│                                                             │
+│  DEFENSIVE SECURITY                                         │
+│  SIEM • Log Analysis • Threat Detection • Incident Response │
+│                                                             │
+│  OFFENSIVE SECURITY                                         │
+│  Pentesting • Active Directory • Reconnaissance             │
+│                                                             │
+│  SYSTEMS                                                    │
+│  Linux • Windows Internals • Active Directory               │
+│                                                             │
+│  DATA                                                       │
+│  SQL • Python • Pandas • Power BI • Tableau                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## `currently_learning`
+
+<p align="center">
+<img src="https://img.shields.io/badge/SIEM%20ENGINEERING-00ff9d?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/THREAT%20DETECTION-00e5ff?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/SOC-7c3aed?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/SECURITY%20MONITORING-ff6b9d?style=for-the-badge&labelColor=0d1117">
+</p>
+
+```text
+[+] SIEM Engineering
+[+] Threat Detection
+[+] Security Monitoring
+[+] Network Security
+[+] Incident Response
+[+] OT / SCADA Security
+```
+
+## `certifications`
+
+```text
+[01] Machine Learning Specialization
+     Stanford University • Coursera
+
+[02] 100 Days of Python Bootcamp
+     Dr. Angela Yu • Udemy
+
+[03] Tools of the Trade: Linux and SQL
+     Google • Coursera
+```
+
+## `github`
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AloukikAgrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ff9d&text_color=ffffff">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AloukikAgrawal&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9d&fire=ff6b9d&currStreakLabel=00e5ff">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal&bg_color=0d1117&color=00e5ff&line=00ff9d&point=ffffff&area=true&hide_border=true">
+</p>
+
+## `connect`
+
+<p align="center">
+<a href="mailto:aloukikagrawal1610@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/aloukik-agrawal-858a84295">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/AloukikAgrawal">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://x.com/AloukikAgrawal">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00e5ff,100:00ff9d&height=120&section=footer">
+
+</p>
+
+<p align="center">
+<strong>BUILD • DETECT • ANALYZE • SECURE</strong>
+</p>
