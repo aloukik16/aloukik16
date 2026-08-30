@@ -290,15 +290,21 @@ My experience spans **network management, data operations, analytics, dashboard 
 ## `github`
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AloukikAgrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ff9d&text_color=ffffff">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AloukikAgrawal&theme=tokyonight" width="95%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AloukikAgrawal&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9d&fire=ff6b9d&currStreakLabel=00e5ff">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal&bg_color=0d1117&color=00e5ff&line=00ff9d&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AloukikAgrawal&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AloukikAgrawal&theme=tokyonight&utcOffset=5.5" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal&theme=tokyo-night&hide_border=true" width="95%">
 </p>
 
 ## `connect`
