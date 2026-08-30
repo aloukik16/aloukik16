@@ -1,4 +1,4 @@
-# 🛡️ `ALOUKIK AGRAWAL // CYBERSECURITY ENGINEER`
+#  `ALOUKIK AGRAWAL`
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
