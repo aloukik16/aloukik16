@@ -294,18 +294,14 @@ My experience spans **network management, data operations, analytics, dashboard 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AloukikAgrawal&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AloukikAgrawal&theme=tokyonight&utcOffset=5.5" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AloukikAgrawal&theme=tokyonight" width="45%">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AloukikAgrawal&theme=tokyo-night&hide_border=true" width="95%">
 </p>
+
 
 ## `connect`
 
