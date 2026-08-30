@@ -1,239 +1,293 @@
 <h1 align="center">ALOUKIK AGRAWAL</h1>
 
-<h3 align="center">
-Cybersecurity Engineer • Software Engineer • Security Analytics
-</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/FOCUS-THREAT%20DETECTION-00e5ff?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/BUILD-SECURE%20SYSTEMS-bc8cff?style=for-the-badge&labelColor=0d1117">
+  <strong>CYBERSECURITY ENGINEER • SECURITY ANALYST • SOFTWARE ENGINEER</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00e5ff,100:7c3aed&height=180&section=header&text=SECURITY%20%7C%20ENGINEERING%20%7C%20ANALYTICS&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-00ff9d?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/SIEM-00e5ff?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-bc8cff?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/THREAT%20DETECTION-ff6b9d?style=for-the-badge&labelColor=0d1117">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00e5ff,100:7c3aed&height=180&section=header&text=SECURITY%20%7C%20DETECTION%20%7C%20ENGINEERING&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </p>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM INFORMATION                        │
-│                                                              │
-│  USER       : Aloukik Agrawal                               │
-│  ROLE       : Cybersecurity / Software Engineer             │
-│  SPECIALTY  : Threat Detection & Network Security           │
-│  DOMAIN     : SIEM • SOC • OT Security • Security Analytics │
-│  STATUS     : SYSTEM ONLINE                                 │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  USER        : ALOUKIK AGRAWAL                                   │
+│  ROLE        : CYBERSECURITY / SOFTWARE ENGINEER                 │
+│  EDUCATION   : B.Tech CSE — Cybersecurity & Cyber Defense         │
+│  CGPA        : 8.59 / 10                                         │
+│                                                                    │
+│  PRIMARY     : SIEM • THREAT DETECTION • NETWORK SECURITY         │
+│  SECONDARY   : DATA ANALYTICS • PYTHON • SECURITY AUTOMATION     │
+│                                                                    │
+│  CURRENT     : SCADA DEFENSIVE MONITORING                        │
+│  STATUS      : ● ONLINE                                           │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 ## `whoami`
 
-I am a cybersecurity and software engineering enthusiast focused on building systems that can **observe, detect, analyze, and respond to security threats**.
+I am a **Computer Science student specializing in Cybersecurity & Cyber Defense**, with hands-on experience across **security monitoring, SIEM engineering, network security, penetration testing, data analytics, and software engineering**.
 
-My work combines **network security, defensive monitoring, software development, SIEM engineering, and data analytics**.
+My current focus is building practical defensive security systems, understanding attack behavior, analyzing telemetry, and turning security data into actionable detections.
 
-Currently building a **SCADA Defensive Monitoring System** while developing deeper expertise in **SIEM engineering and threat detection**.
+```text
+                    SECURITY PIPELINE
 
-```python
-focus = {
-    "cybersecurity": [
-        "Threat Detection",
-        "SIEM Engineering",
-        "Network Security",
-        "Security Monitoring",
-        "OT / SCADA Security"
-    ],
-    "engineering": [
-        "Python",
-        "C++",
-        "Networking",
-        "Multithreading",
-        "Data Pipelines"
-    ],
-    "analytics": [
-        "SQL",
-        "Power BI",
-        "Pandas",
-        "NumPy",
-        "Data Visualization"
-    ]
-}
+       NETWORK / ENDPOINT
+               │
+               ▼
+          ┌─────────┐
+          │ TELEMETRY│
+          └────┬────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   SIEM /     │
+        │   ANALYTICS  │
+        └──────┬───────┘
+               │
+        ┌──────┴──────┐
+        ▼             ▼
+    DETECTION     INVESTIGATION
+        │             │
+        └──────┬──────┘
+               ▼
+           RESPONSE
 ```
 
 ## `featured_projects`
 
-### SCADA Defensive Monitoring System
+### `01` SCADA Defensive Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/OpenPLC-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square">
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square">
+<img src="https://img.shields.io/badge/Zeek-00AEEF?style=flat-square">
+<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square">
+</p>
+
+Designed a simulated **Modbus SCADA environment** using OpenPLC and Node-RED to replicate an OT network.
+
+Integrated **Suricata, Zeek, and Wazuh** into a centralized security monitoring pipeline with dashboards for improved threat visibility.
 
 ```text
-DOMAIN       : OT Security
-OBJECTIVE    : Defensive Monitoring
-FOCUS        : Threat Detection
-STACK        : Python • SIEM • Network Telemetry
+OpenPLC
+   │
+   ▼
+Modbus / OT Network
+   │
+   ├──────────────► Zeek
+   │
+   └──────────────► Suricata
+                         │
+                         ▼
+                       Wazuh
+                         │
+                         ▼
+                   SIEM / DASHBOARD
 ```
 
-Building a defensive monitoring platform designed to improve visibility into SCADA environments, analyze security telemetry, identify suspicious activity, and support threat detection.
+### `02` Active Directory Red Team Lab
 
-`SCADA` `OT Security` `Threat Detection` `SIEM` `Monitoring`
+<p>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=flat-square">
+</p>
 
-### Deep Packet Inspection System
+Configured an **Active Directory security lab** to simulate red team activity using Kali Linux and analyze authentication telemetry.
+
+Implemented **Splunk SIEM, Sysmon, and Universal Forwarder** for centralized monitoring and mapped observed activity against the **MITRE ATT&CK** framework.
 
 ```text
-DOMAIN       : Network Security
-OBJECTIVE    : Packet Inspection
-FOCUS        : Traffic Analysis
-STACK        : C++ • Multithreading • PCAP • Wireshark
+RED TEAM                         BLUE TEAM
+
+Kali Linux                       Sysmon
+     │                              │
+     ▼                              ▼
+Attack Simulation ──────────► Authentication Logs
+                                    │
+                                    ▼
+                                  Splunk
+                                    │
+                                    ▼
+                            MITRE ATT&CK Mapping
 ```
 
-Developed a multithreaded deep packet inspection engine for analyzing captured network traffic and extracting protocol information for security monitoring and traffic analysis.
+### `03` Cryptocurrency Data Analysis
 
-`C++` `Multithreading` `PCAP` `TCP/IP` `TLS` `Wireshark`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/API-00e5ff?style=flat-square">
+</p>
 
-### Security Testing Labs
-
-```text
-WORKFLOW
-
-RECON
-  ↓
-ENUMERATION
-  ↓
-VULNERABILITY ANALYSIS
-  ↓
-EXPLOITATION
-  ↓
-ACCESS ANALYSIS
-  ↓
-DOCUMENTATION
-```
-
-Hands-on work across controlled security labs involving network reconnaissance, web security testing, Linux environments, traffic analysis, and vulnerability assessment.
-
-`Kali Linux` `Linux` `Wireshark` `Web Security` `Networking`
-
-### Security Analytics
+Built a Python data pipeline using the **CoinMarketCap API** to retrieve real-time cryptocurrency data, transform datasets, and visualize pricing trends and financial indicators.
 
 ```text
+API
+ │
+ ▼
 RAW DATA
-    ↓
-PYTHON / SQL
-    ↓
-PROCESSING
-    ↓
+ │
+ ▼
+PANDAS
+ │
+ ▼
+TRANSFORMATION
+ │
+ ▼
 ANALYSIS
-    ↓
-POWER BI
-    ↓
-SECURITY INSIGHTS
+ │
+ ▼
+VISUALIZATION
 ```
 
-Using Python, SQL, and visualization tools to transform raw datasets and security telemetry into structured analysis and actionable dashboards.
+## `experience`
 
-`Python` `Pandas` `SQL` `Power BI` `Matplotlib` `Plotly`
+```text
+2026  ──  DATA OPERATIONS & NETWORK MANAGEMENT
+          Shri Shri Minerals
 
-## `technical_arsenal`
+          Data Operations
+          Network Monitoring
+          Troubleshooting
+          IT Management
+
+2025  ──  DATA ANALYST
+          Freelance
+
+          KPI Dashboards
+          Financial Analytics
+          Excel Automation
+
+2024  ──  DATA ANALYST INTERN
+          IBM SkillBuild / CSRBOX
+
+          100K+ Data Points
+          10+ Interactive Dashboards
+          Python / Pandas / NumPy
+
+2024  ──  SOFTWARE ENGINEER INTERN
+          INNOVATE
+
+          SHA-256 Authentication
+          reCAPTCHA
+          Login Activity Monitoring
+          Anomaly Detection
+```
+
+My experience spans **network management, data operations, analytics, dashboard development, authentication, and security monitoring**, giving me a combination of infrastructure and security perspectives.
+
+## `security_stack`
+
+### SIEM & Detection
+
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=for-the-badge">
+</p>
+
+### Network Security
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
 
 ### Programming
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### Cybersecurity & Networking
-
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 ### Data & Analytics
 
 <p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 </p>
 
-### Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white">
-</p>
-
-### Engineering Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
-
-## `security_mindset`
+## `core_capabilities`
 
 ```text
-                  ┌──────────────┐
-                  │    SYSTEM    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │   TELEMETRY  │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    DETECT    │
-                  └──────┬───────┘
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-       ┌──────────────┐      ┌──────────────┐
-       │  INVESTIGATE │      │     ALERT    │
-       └───────┬──────┘      └───────┬──────┘
-               │                     │
-               └──────────┬──────────┘
-                          ▼
-                   ┌──────────────┐
-                   │    RESPOND   │
-                   └──────┬───────┘
-                          │
-                          ▼
-                   ┌──────────────┐
-                   │    IMPROVE   │
-                   └──────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  NETWORKING                                                 │
+│  TCP/IP • Network Analysis • Traffic Inspection            │
+│                                                             │
+│  DEFENSIVE SECURITY                                         │
+│  SIEM • Log Analysis • Threat Detection • Incident Response │
+│                                                             │
+│  OFFENSIVE SECURITY                                         │
+│  Pentesting • Active Directory • Reconnaissance             │
+│                                                             │
+│  SYSTEMS                                                    │
+│  Linux • Windows Internals • Active Directory               │
+│                                                             │
+│  DATA                                                       │
+│  SQL • Python • Pandas • Power BI • Tableau                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-My approach to security is simple:
-
-**Understand the system → observe the telemetry → identify abnormal behavior → investigate → improve the detection.**
 
 ## `currently_learning`
 
-<p>
-<img src="https://img.shields.io/badge/SIEM_ENGINEERING-00ff9d?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/THREAT_DETECTION-00e5ff?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/SOC_OPERATIONS-bc8cff?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-ff6b9d?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/OT_SECURITY-ffd166?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/CLOUD_SECURITY-4dabf7?style=flat-square&labelColor=0d1117">
+<p align="center">
+<img src="https://img.shields.io/badge/SIEM%20ENGINEERING-00ff9d?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/THREAT%20DETECTION-00e5ff?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/SOC-7c3aed?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/SECURITY%20MONITORING-ff6b9d?style=for-the-badge&labelColor=0d1117">
 </p>
 
-## `github_activity`
+```text
+[+] SIEM Engineering
+[+] Threat Detection
+[+] Security Monitoring
+[+] Network Security
+[+] Incident Response
+[+] OT / SCADA Security
+```
+
+## `certifications`
+
+```text
+[01] Machine Learning Specialization
+     Stanford University • Coursera
+
+[02] 100 Days of Python Bootcamp
+     Dr. Angela Yu • Udemy
+
+[03] Tools of the Trade: Linux and SQL
+     Google • Coursera
+```
+
+## `github`
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AloukikAgrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ff9d&text_color=ffffff">
@@ -250,23 +304,18 @@ My approach to security is simple:
 ## `connect`
 
 <p align="center">
-
 <a href="mailto:aloukikagrawal1610@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 <a href="https://linkedin.com/in/aloukik-agrawal-858a84295">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+<a href="https://github.com/AloukikAgrawal">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <a href="https://x.com/AloukikAgrawal">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-
-<a href="https://instagram.com/aloukikagrawal16">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 </p>
 
 <p align="center">
@@ -276,5 +325,5 @@ My approach to security is simple:
 </p>
 
 <p align="center">
-<b>SECURITY • ENGINEERING • ANALYTICS</b>
+<strong>BUILD • DETECT • ANALYZE • SECURE</strong>
 </p>
